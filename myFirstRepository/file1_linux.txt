@@ -1,0 +1,2 @@
+This is file1_linux.txt
+This is a new line in file1

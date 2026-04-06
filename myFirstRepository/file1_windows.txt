@@ -1,0 +1,2 @@
+This is file1_windows.txt
+This is a new line in file1
